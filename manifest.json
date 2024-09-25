@@ -1,5 +1,4 @@
-﻿// for more info on the manifest check: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#manifest
-{
+﻿{
     "name": "Lil Gator Game Poptracker Pack",
     "game_name": "Lil Gator Game",
     "package_version": "1.0.2",
@@ -9,13 +8,7 @@
         "standard": {
             "display_name": "Map Tracker",
             "flags": [
-                "ap" //enables AP autotracking interface - remove if not needed
-            ]
-        },
-        "var_itemsonly": {
-            "display_name": "Items Only",
-            "flags": [
-                "ap" //enables AP autotracking interface - remove if not needed
+                "ap"
             ]
         }
     },

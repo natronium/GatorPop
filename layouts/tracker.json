@@ -1,6 +1,4 @@
-﻿//sets the trackers layout
-//more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#layouts 
-{
+﻿{
     "tracker_default": {
         "type": "container",
         "background": "#000000",
@@ -40,7 +38,8 @@
                 }
             ]
         }
-    }//,
+    }
+    //,
     // "tracker_horizontal": {
     //     "type": "container",
     //     "background": "#000000",
