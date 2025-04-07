@@ -60,6 +60,28 @@
                         "location_group": "",
                         "access_rules": []
                     }
+					{
+                        "name": "Tutorial Island - Franny (Stick Duck) Quest Completion NPC",
+                        "location_id": 100002199,
+                        "region": "Tutorial Island",
+                        "client_id": null,
+                        "client_name_id": "NPC_TutIsland_Duck",
+                        "location_group": "",
+                        "access_rules": [
+                            "$cardboard_destroyer"
+                        ]
+                    },
+                    {
+                        "name": "Tutorial Island - Franny (Stick Duck) Quest Completion Item",
+                        "location_id": 100002200,
+                        "region": "Tutorial Island",
+                        "client_id": null,
+                        "client_name_id": "Sword_Wood",
+                        "location_group": "",
+                        "access_rules": [
+                            "$cardboard_destroyer"
+                        ]
+                    }
                 ]
             },
             {
@@ -139,42 +161,6 @@
                         "client_name_id": "Item_Ragdoll",
                         "location_group": "",
                         "access_rules": []
-                    }
-                ]
-            },
-            {
-                "name": "Franny (Stick Duck)",
-                "region": "Tutorial Island",
-                "access_rules": [],
-                "map_locations": [
-                    {
-                        "map": "the_island",
-                        "x": 182,
-                        "y": 457
-                    }
-                ],
-                "sections": [
-                    {
-                        "name": "Tutorial Island - Franny (Stick Duck) Quest Completion NPC",
-                        "location_id": 100002199,
-                        "region": "Tutorial Island",
-                        "client_id": null,
-                        "client_name_id": "NPC_TutIsland_Duck",
-                        "location_group": "",
-                        "access_rules": [
-                            "$cardboard_destroyer"
-                        ]
-                    },
-                    {
-                        "name": "Tutorial Island - Franny (Stick Duck) Quest Completion Item",
-                        "location_id": 100002200,
-                        "region": "Tutorial Island",
-                        "client_id": null,
-                        "client_name_id": "Sword_Wood",
-                        "location_group": "",
-                        "access_rules": [
-                            "$cardboard_destroyer"
-                        ]
                     }
                 ]
             },
