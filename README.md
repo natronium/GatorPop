@@ -1,7 +1,7 @@
 # GatorPop
 Lil Gator Game is a game about being an adorable gator who is getting all of their friends involved in their giant hero quest in order to convince their big sister to stop working on her college assignment and instead play with them.
 
-THIS POPTRACKER HAS BEEN DEPRECATED IN FAVOR OF USING [UNIVERSAL TRACKER](https://github.com/FarisTheAncient/Archipelago/releases/) WITH THE MAPS BUILT INTO THE [APWORLD](https://github.com/natronium/GatorArchipelago)!
+**THIS POPTRACKER HAS BEEN DEPRECATED IN FAVOR OF USING [UNIVERSAL TRACKER](https://github.com/FarisTheAncient/Archipelago/releases/) WITH THE MAPS BUILT INTO THE [APWORLD](https://github.com/natronium/GatorArchipelago)!**
 
 
 ## Previous Instructions
